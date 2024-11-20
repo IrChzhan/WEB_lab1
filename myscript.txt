@@ -1,0 +1,2 @@
+HISTFILE=/home/irchzan/.bash_history
+HISTFILESIZE=2000
